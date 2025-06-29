@@ -7,7 +7,7 @@
 ## User Registration, User Login and Authorization process.
 The diagram shows flow of how we implement User Registration, User Login and Authorization process.
 
-![Architecture](spring-boot-jwt-authentication-spring-security-architecture.png)
+![Architecture][(spring-boot-jwt-authentication-spring-security-architecture.png](https://github.com/JAGANBEHERA-009/spring-boot-spring-security-jwt-authentication/blob/main/spring-boot-spring-security-jwt-authentication-master/spring-boot-jwt-authentication-spring-security-architecture.png))
 
 
 ## Spring Boot Server Architecture with Spring Security

@@ -13,7 +13,7 @@ The diagram shows flow of how we implement User Registration, User Login and Aut
 ## Spring Boot Server Architecture with Spring Security
 You can have an overview of our Spring Boot Server with the diagram below:
 
-![spring-boot-jwt-authentication-spring-security-architecture](spring-boot-jwt-authentication-spring-security-architecture.png)
+![spring-boot-jwt-authentication-spring-security-architecture](https://github.com/JAGANBEHERA-009/spring-boot-spring-security-jwt-authentication/blob/main/spring-boot-spring-security-jwt-authentication-master/spring-boot-jwt-authentication-spring-security-flow.png)
 
 ## Dependency
 – If you want to use PostgreSQL:

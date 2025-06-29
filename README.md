@@ -82,6 +82,6 @@ For more detail, please visit:
 
 ## Refresh Token
 
-![spring-boot-refresh-token-jwt-example-flow](spring-boot-refresh-token-jwt-example-flow.png)
+![spring-boot-refresh-token-jwt-example-flow](https://github.com/JAGANBEHERA-009/spring-boot-spring-security-jwt-authentication/blob/main/spring-boot-spring-security-jwt-authentication-master/spring-boot-refresh-token-jwt-example-flow.png)
 
 For instruction: [Spring Boot Refresh Token with JWT example](https://bezkoder.com/spring-boot-refresh-token-jwt/)
